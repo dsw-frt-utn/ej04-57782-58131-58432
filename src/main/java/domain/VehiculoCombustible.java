@@ -26,4 +26,5 @@ public class VehiculoCombustible extends Vehiculo {
         double total = kilometrosPorLitro - litrosExtra;
         return total;
     }
+    }
 
