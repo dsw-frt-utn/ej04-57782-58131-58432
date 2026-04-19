@@ -16,6 +16,10 @@ public class Sucursal {
     public String getCodigo() {
         return codigo;
     }
+    
+    public Sucursal (String codigo){
+    this.codigo=codigo;
+}
 
     public String getDireccion() {
         return direccion;

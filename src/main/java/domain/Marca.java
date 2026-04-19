@@ -18,6 +18,10 @@ public class Marca {
         this.pais = pais;
     }
 
+    public Marca (String nombre){
+    this.nombre=nombre;
+}
+    
     public String getNombre() {
         return nombre;
     }
