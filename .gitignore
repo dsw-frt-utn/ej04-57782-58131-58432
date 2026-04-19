@@ -31,20 +31,35 @@ pom.xml.versionsBackup
 pom.xml.next
 release.properties
 dependency-reduced-pom.xml
+<<<<<<< HEAD
 
+=======
+ 
+>>>>>>> 455686e2a5f71b4fcde0e543ddc7d69a332426f6
 # ==== NetBeans ====
 nbproject/private/
 nbbuild/
 dist/
 nbdist/
 .nb-gradle/
+<<<<<<< HEAD
 
+=======
+ 
+>>>>>>> 455686e2a5f71b4fcde0e543ddc7d69a332426f6
 # ==== IDEs ====
 .vscode/
 .idea/
 *.iml
+<<<<<<< HEAD
 
 # ==== Sistema ====
 .DS_Store
 Thumbs.db
 
+=======
+ 
+# ==== Sistema ====
+.DS_Store
+Thumbs.db
+>>>>>>> 455686e2a5f71b4fcde0e543ddc7d69a332426f6
